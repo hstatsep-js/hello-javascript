@@ -1,4 +1,4 @@
-// use document.write() to print "Hello World!" (tip: put "Hello World!" inside the parentheses)
+// use document.write() to print "Hello Javascript!" (tip: put "Hello Javascript!" inside the parentheses)
 
 
 // use console.log() to print "Testing the console..."
